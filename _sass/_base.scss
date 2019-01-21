@@ -4,6 +4,16 @@ body {
     width: 100%;
 }
 
+@font-face {
+  font-family: "FLF";
+  src: url("../fonts/SansSerifFLF.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FLF Bold";
+  src: url("../fonts/SansSerifBldFLF.otf") format("opentype");
+}
+
 body {
     @include serif-font;
 }
