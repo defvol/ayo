@@ -81,6 +81,20 @@ aside {
 
 // Navigation
 
+/* adjustments for logo */
+.navbar {
+  padding: 0 15px;
+}
+.navbar-brand {
+  padding: 0;
+}
+.navbar-right {
+  padding: 15px 0;
+}
+#logo {
+  height: 54px;
+}
+
 .navbar-default {
     background-color: white;
     border-color: rgba($theme-dark, .5);
@@ -119,8 +133,9 @@ aside {
         }
     }
     @media (min-width: 768px) {
-        padding: 15px 0;
-
+        #logo {
+            height: 80px;
+        }
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
             color: rgba(white, .7);
