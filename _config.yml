@@ -3,7 +3,7 @@ title: Arte y Oficio Plataforma
 email: hola@arteyoficio.mx
 description: >
   Arte y Oficio es un espacio que ofrece una extensión educativa para la Cultura y las Artes en Culiacán, Sinaloa. También gestiona proyectos culturales.
-baseurl: "/ayo" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.arteyoficio.mx" # the base hostname & protocol for your site
 
 instagram_username: arteyoficio_plat
