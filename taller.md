@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Luis Brito"
+title:  "Introducción a la Fotografía"
 date:   2019-01-19 19:41:14 -0800
 categories: posts
 ---
