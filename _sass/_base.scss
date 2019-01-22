@@ -387,3 +387,16 @@ body {
 #mc_embed_signup h2 {
   font-weight: inherit;
 }
+
+/** POSTS **/
+
+#post {
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  h3 {
+    text-align: center;
+  }
+}

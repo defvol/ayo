@@ -7,8 +7,13 @@
   {% include nav-inner.html %}
   <section id="post">
       <div class="container">
-          <div class="col-lg-8 col-lg-offset-2">
+          <div class="col-lg-8">
               {{ content }}
+          </div>
+          <div class="col-lg-4">
+            {% for pic in page.pictures %}
+              <img src="img/{{pic}}" class="img-responsive" alt="">
+            {% endfor %}
           </div>
       </div>
   </section>
