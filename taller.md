@@ -16,33 +16,13 @@ Introducción a la Fotografía
 
 Fecha: 1 - 2 febrero
 <br />
-Horario: 16 - 20 hrs y 10 - 14 hrs
+Horario:<br />1 de febrero 16 - 20 hrs<br />2 de febrero 10 - 14 hrs
 <br />
 Lugar: Dr. Romero 53. Col. Chapultepec
 <br />
 Inversión: $1,400.00
 
-Inscríbete en: <br /> {{ site.email }}
-
-Objetivo
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### Temario
-
-Día 1
-- Conoce tu cámara
-- Amplitud
-- Velocidad
-- ISO
-- Composición
-- Modalidad práctica
-
-Día 2
-- Sensibilidad
-- Luz Natural
-- Texturas
-- Modalidad práctica
+<p class="text-right">Inscríbete en: <br /> {{ site.email }}</p>
 
 <br />
 
