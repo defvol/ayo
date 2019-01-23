@@ -26,6 +26,35 @@ Inversión: $1,400.00
 
 <br />
 
+### Temario
+
+<br />
+
+Día 1
+
+- Iniciaremos conociendo un poco mejor el trabajo de los fotógrafos.
+- Veremos los componentes de la cámara, los diferentes tipos de lentes y cámaras.
+- Estudiaremos a profundidad exposición.
+- Los tres pilares de la fotografía
+  - Sensibilidad ISO
+  - Apertura de diagragma
+  - Velocidad de obturación
+- Balance de blancos, como ajustar temperaturas de color y
+comprender histograma.
+- Después de conceptos teóricos, practicaremos en campo momentos
+cotidianos bajo distintas condiciones de luz, logrando reforzar los conocimientos teóricos y aprendiendo a dominar el modo manual de tu cámara.
+
+Día 2
+
+- Despejaremos dudas y temáticas uno a uno de acuerdo con los
+intereses de cada participante.
+- Analizaremos autores como inspiración en diversos géneros
+fotográficos.
+- Crearás un reportaje o serie fotográfica practicando los
+conocimientos teóricos aprendidos para sacar el mayor provecho a tu cámara fotográfica.
+
+<br />
+
 ### Sobre los Talleristas
 
 <br />
