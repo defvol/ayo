@@ -12,7 +12,10 @@
           </div>
           <div class="col-lg-4 pictures">
             {% for pic in page.pictures %}
-              <img src="img/{{pic}}" class="img-responsive" alt="">
+              <div class="col">
+                <img src="img/{{pic}}" class="img-responsive" alt="">
+                <br />
+              </div>
             {% endfor %}
           </div>
       </div>

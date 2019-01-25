@@ -6,6 +6,8 @@ categories: posts
 pictures:
 - "portfolio/luis.jpg"
 - "portfolio/ivan.jpg"
+- "portfolio/photo-01.jpg"
+- "portfolio/photo-02.jpg"
 ---
 
 ## Taller
