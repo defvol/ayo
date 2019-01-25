@@ -14,6 +14,16 @@ body {
   src: url("../fonts/SansSerifBldFLF.otf") format("opentype");
 }
 
+@font-face {
+  font-family: "PTM55F";
+  src: url("../fonts/PTM55F.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PTM75F";
+  src: url("../fonts/PTM75F.ttf") format("truetype");
+}
+
 body {
     @include serif-font;
 }

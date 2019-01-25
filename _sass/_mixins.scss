@@ -55,6 +55,11 @@
 	}
 }
 
+@mixin serif-text-font()
+{
+  font-family: 'PTM55F', 'serif';
+}
+
 @mixin sans-serif-font()
 {
 	font-family: 'FLF Bold', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
