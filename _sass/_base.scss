@@ -401,6 +401,8 @@ body {
 /** POSTS **/
 
 #post {
+  @include serif-text-font;
+
   div.pictures {
     padding-top: 40px;
   }
