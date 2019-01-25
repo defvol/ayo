@@ -26,6 +26,18 @@ Inversión: $1,400.00
 
 <br />
 
+### Dirigido a:
+
+Este taller está dirigido a personas de 16 años en adelante con o sin experiencia en la fotografía y uso de cámara.
+
+<br />
+
+### Necesidades
+
+Contar con cámara profesional o semi-profesional, en caso de no tener cámara y estar interesados en asistir al taller favor de ponerse en contacto con nosotros [{{ site.email }}](mailto:{{ site.email }}).
+
+<br />
+
 ### Temario
 
 <br />
