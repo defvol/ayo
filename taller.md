@@ -30,7 +30,10 @@ Inversión: $1,400.00
 
 ### Dirigido a:
 
-Este taller está dirigido a personas de 16 años en adelante con o sin experiencia en la fotografía y uso de cámara.
+Este taller está dirigido a personas que desean aprender fotografía
+desde un nivel principiante, introducirse a las bases de la fotografía y
+aprender todas las funciones de una cámara profesional. También para
+personas que desean reforzar temas de fotografía inicial.
 
 <br />
 
