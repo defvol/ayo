@@ -16,9 +16,9 @@ Introducción a la Fotografía
 
 <br />
 
-Fecha: 1 - 2 febrero
+Fecha: 15 - 16 febrero
 
-Horario:<br />1 de febrero 16 - 20 hrs<br />2 de febrero 10 - 14 hrs
+Horario:<br />15 de febrero 16 - 20 hrs<br />16 de febrero 10 - 14 hrs
 
 Lugar: Dr. Romero 53. Col. Chapultepec
 
